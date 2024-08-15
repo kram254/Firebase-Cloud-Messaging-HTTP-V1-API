@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64289199319",
+    "project_id": "wallet-bf2ae",
+    "storage_bucket": "wallet-bf2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64289199319:android:ec0b15cc367a59fffd8c92",
+        "android_client_info": {
+          "package_name": "games.sc_riber.invoiceAi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rLbLwlppxz2Jw_gma2gIFJkXnK2DdZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64289199319:android:34e78737e92da0f6fd8c92",
+        "android_client_info": {
+          "package_name": "games.sc_riber.invoix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rLbLwlppxz2Jw_gma2gIFJkXnK2DdZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

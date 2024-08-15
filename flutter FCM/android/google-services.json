@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502409968938",
+    "project_id": "invoiceai-273a1",
+    "storage_bucket": "invoiceai-273a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502409968938:android:0162a7d8d42af441c2b253",
+        "android_client_info": {
+          "package_name": "com.vsp.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDasFvklkd1Q7_H0zH2slKsFeC4ZzB53ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

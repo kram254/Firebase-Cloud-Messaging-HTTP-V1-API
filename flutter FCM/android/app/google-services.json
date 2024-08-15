@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192582570684",
+    "project_id": "fcm-wallet",
+    "storage_bucket": "fcm-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192582570684:android:8976ba6e771093823236b9",
+        "android_client_info": {
+          "package_name": "com.vsp.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_M0itveYXn7stVlxM8du8iEvv6cK9kxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
